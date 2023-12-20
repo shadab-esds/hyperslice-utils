@@ -32,7 +32,7 @@ setuptools.setup(
     description='Hyperslice Flask libraries.',
     long_description=read("README.md"),
     long_description_content_type="text/markdown",
-    url='https://github.com/shadab-esds/hyperslice-utils/tree/main',
+    url='https://github.com/BodHostDev/hyperslice-utils/tree/main',
     packages=setuptools.find_packages("src"),
     package_dir={"": "src"},
     #py_modules=[splitext(basename(path))[0] for path in glob("src/*.py")],
